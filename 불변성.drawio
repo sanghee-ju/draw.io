@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-11T13:25:08.471Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="577jcqHQqZ4y1BZEBgRQ" version="20.8.3" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-01-11T13:32:19.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="mtb5BRbJ2GD3Pn4dkcSp" version="20.8.3" type="github" pages="4">
   <diagram id="XnPWyu72ihGpaVSUxvkg" name="페이지-1">
     <mxGraphModel dx="936" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,30 @@
         </mxCell>
         <mxCell id="iFHaDSy6pZfwZREz0Ye--1" value="&lt;font face=&quot;Nanum Gothic&quot;&gt;&lt;span style=&quot;font-size: 19px;&quot;&gt;&lt;b&gt;얕은복사&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="60" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHaDSy6pZfwZREz0Ye--3" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nanum Gothic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="240" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHaDSy6pZfwZREz0Ye--4" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nanum Gothic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic;" vertex="1" parent="1">
+          <mxGeometry x="50" y="100" width="240" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHaDSy6pZfwZREz0Ye--5" value="a : 4ace2bf" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nanum Gothic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic;" vertex="1" parent="1">
+          <mxGeometry x="60" y="300" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHaDSy6pZfwZREz0Ye--6" value="a_copy : 4ace2bf" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nanum Gothic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHaDSy6pZfwZREz0Ye--7" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Nanum Gothic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic;" vertex="1" parent="1">
+          <mxGeometry x="500" y="290" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHaDSy6pZfwZREz0Ye--8" value="a_copy" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Nanum Gothic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic;" vertex="1" parent="1">
+          <mxGeometry x="510" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHaDSy6pZfwZREz0Ye--9" value="name : &#39;react&#39;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Nanum Gothic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic;" vertex="1" parent="1">
+          <mxGeometry x="500" y="340" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iFHaDSy6pZfwZREz0Ye--10" value="age : 20" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Nanum Gothic;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNanum%2BGothic;" vertex="1" parent="1">
+          <mxGeometry x="500" y="390" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
