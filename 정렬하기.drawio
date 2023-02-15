@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-02-15T08:43:14.060Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.17" etag="2gCytqKYjsIP2alZiJYZ" type="github"><diagram name="페이지-1" id="AvGHqKZogtaiydlTkmt7">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-15T09:05:37.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LUJrNoX2NS9q2ybrLwY6" version="20.8.17" type="github">
+  <diagram name="페이지-1" id="AvGHqKZogtaiydlTkmt7">
+    <mxGraphModel dx="936" dy="502" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="634Vk4nj7V7EC3SejyF5-15" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=25;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry width="820" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="634Vk4nj7V7EC3SejyF5-7" value="&lt;p&gt;Find 81&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="110" y="30" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="634Vk4nj7V7EC3SejyF5-8" value="TEMP RANGE : 76 ~ 86" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="320" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="634Vk4nj7V7EC3SejyF5-9" value="number of value(n) : 11" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="100" y="72.5" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="634Vk4nj7V7EC3SejyF5-10" value="Statement : Is bigger than 81 ?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="120" y="130" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="634Vk4nj7V7EC3SejyF5-14" value="index (middle point) : 81" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=12;fontFamily=Comic Sans MS;" vertex="1" parent="1">
+          <mxGeometry x="100" y="95" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="634Vk4nj7V7EC3SejyF5-17" value="&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;SAME!&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="500" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="634Vk4nj7V7EC3SejyF5-19" value="&lt;font style=&quot;font-size: 25px;&quot;&gt;81&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="130" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="634Vk4nj7V7EC3SejyF5-28" value="&lt;p&gt;&lt;font face=&quot;Comic Sans MS&quot;&gt;WE GOTCHA!&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="500" y="170" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
